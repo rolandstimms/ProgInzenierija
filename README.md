@@ -1,2 +1,2 @@
 # ProgInzinierija
-Programmatūras inženierijas zars
+Ir mērķis izstrādāt dzelzceļa transporta informācijas sistēmu, kur lietotāji varēs redzēt pieejamos braucienus. Un personāls , kas ir piemēram, kases darbinieki vai konduktori spēs darīt ar sistēmas lietotājiem saistītās darbības, kā abonementa piešķiršana, biļešu derīguma pārbaude. Sistēmas administratoram būs iespēja veikt labojumus saistībā ar lietotāju grupām, un darīt visu to pašu ko pārējās sistēmas lietotāju grupas.
